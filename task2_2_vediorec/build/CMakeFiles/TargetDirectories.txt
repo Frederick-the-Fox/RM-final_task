@@ -1,0 +1,3 @@
+/home/fredy/Desktop/RM考核/final_task/task2_2_vediorec/build/CMakeFiles/edit_cache.dir
+/home/fredy/Desktop/RM考核/final_task/task2_2_vediorec/build/CMakeFiles/rebuild_cache.dir
+/home/fredy/Desktop/RM考核/final_task/task2_2_vediorec/build/CMakeFiles/task2_2.dir
